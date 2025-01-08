@@ -1,0 +1,10 @@
+.App {
+  font-family: sans-serif;
+  margin: 20px;
+}
+
+.sensor-entry {
+  margin-bottom: 8px;
+  padding: 4px;
+  border-bottom: 1px solid #ccc;
+}
